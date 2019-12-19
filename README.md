@@ -1,2 +1,0 @@
-# chinhchong
-web đầu tay
